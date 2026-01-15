@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pancono Coin Mining • Airdrop Access</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Segoe UI", Roboto, sans-serif;
+    }
+
+    body {
+      background: #050505;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .box {
+      max-width: 480px;
+      width: 100%;
+      background: linear-gradient(145deg, #111111, #000000);
+      border-radius: 16px;
+      padding: 35px 25px;
+      box-shadow: 0 0 30px rgba(0,255,170,0.25);
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 12px;
+      font-weight: 700;
+      background: linear-gradient(90deg, #00ffa2, #1bddff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    p {
+      font-size: 15px;
+      color: #c4c4c4;
+      margin-bottom: 28px;
+      line-height: 1.5;
+    }
+
+    a.btn {
+      display: block;
+      width: 100%;
+      padding: 18px;
+      margin: 12px 0;
+      text-decoration: none;
+      color: #000;
+      font-weight: 700;
+      background: linear-gradient(90deg, #00ffa2, #1bddff);
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,255,170,0.3);
+      transition: .25s;
+      font-size: 17px;
+    }
+
+    a.btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 25px rgba(0,255,170,0.5);
+    }
+
+    .footer {
+      margin-top: 25px;
+      font-size: 13px;
+      color: #8d8d8d;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+    <h1>⚡ Pancono Mining & Airdrop</h1>
+    <p>
+     Start mining & claim as many Pancono coins and points.
+    </p>
+
+    
+     <a class="btn" href="https://pancono.gamer.gd/claim.usdt.prize.pool.index.html" target="_blank">
+      Earn $USDT From Prize Pool
+    </a>
+    
+     <a class="btn" href="https://pancono.gamer.gd/claim.interlink.itlg.prize.pool.index.html" target="_blank">
+       Earn Interlink $ITLG From Prize Pool
+    </a>
+     
+ 
+    <div class="footer">
+      Powered by Pancono Blockchain • Airdrop & Mining Phase 1 has Started
+    </div>
+  </div>
+</body>
+</html>
